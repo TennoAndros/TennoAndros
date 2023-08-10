@@ -4,7 +4,7 @@
 
 ---
 <p align="center">
-<img align="right" alt="GIF" src="https://github.com/TennoAndros/TennoAndros/assets/95369156/7db85e40-0e04-45d9-a7dc-f223236a9b5a" width="710px" height="400px"/>
+<img align="center" alt="GIF" src="https://github.com/TennoAndros/TennoAndros/assets/95369156/7db85e40-0e04-45d9-a7dc-f223236a9b5a" width="710px" height="400px"/>
 </p>
 <br>
 <hr>
