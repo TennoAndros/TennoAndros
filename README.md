@@ -7,7 +7,6 @@
 <img align="center" alt="GIF" src="https://github.com/TennoAndros/TennoAndros/assets/95369156/7db85e40-0e04-45d9-a7dc-f223236a9b5a" width="710px" height="400px"/>
 </p>
 <br>
-<hr>
 
 - 🔭 I’m currently working on improving my overall coding skills.
 - 🌱 I’m currently learning redux, javascript, react.
