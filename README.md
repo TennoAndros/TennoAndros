@@ -1,13 +1,13 @@
 # Hi there 👋 I'm Andreas, Self-Taught Full Stack Developer 👨‍💻
 ---
 ## 💫 I'm on an exciting journey as a self-taught full stack developer. I'm passionate about coding and constantly strive to enhance my skills and knowledge. Despite being self-taught, my motivation and love for coding keep me going strong.
----
+
 <img align="right" alt="GIF" src="https://github.com/TennoAndros/TennoAndros/assets/95369156/7db85e40-0e04-45d9-a7dc-f223236a9b5a" width="530px" height="auto"/>
 
 
 - 🔭 I’m currently working on improving my overall coding skills.
 - 🌱 I’m currently learning redux, javascript, react.
-- ⚡ Fun fact: Some people say that you either love or hate coding and i love it. Even in its frustrating moments. </br>
+- ⚡ Fun fact: Some people say that you either love or hate coding and i love it. Even in its frustrating moments.</br>
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
