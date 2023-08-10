@@ -5,7 +5,7 @@
 ---
 <br>
 
-<img align="right" alt="GIF" src="https://github.com/TennoAndros/TennoAndros/assets/95369156/7db85e40-0e04-45d9-a7dc-f223236a9b5a" width="500px" height="350px"/>
+<img align="right" alt="GIF" src="https://github.com/TennoAndros/TennoAndros/assets/95369156/7db85e40-0e04-45d9-a7dc-f223236a9b5a" width="500px" height="320px"/>
 
 
 - 🔭 I’m currently working on improving my overall coding skills.
