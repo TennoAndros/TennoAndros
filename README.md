@@ -3,10 +3,11 @@
 ## 💫 I'm on an exciting journey as a self-taught full stack developer. I'm passionate about coding and constantly strive to enhance my skills and knowledge. Despite being self-taught, my motivation and love for coding keep me going strong.
 
 ---
+<p align="center">
+<img align="right" alt="GIF" src="https://github.com/TennoAndros/TennoAndros/assets/95369156/7db85e40-0e04-45d9-a7dc-f223236a9b5a" width="710px" height="400px"/>
+</p>
 <br>
-
-<img align="right" alt="GIF" src="https://github.com/TennoAndros/TennoAndros/assets/95369156/7db85e40-0e04-45d9-a7dc-f223236a9b5a" width="510px" height="300px"/>
-
+<hr>
 
 - 🔭 I’m currently working on improving my overall coding skills.
 - 🌱 I’m currently learning redux, javascript, react.
