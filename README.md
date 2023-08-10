@@ -2,12 +2,16 @@
 ---
 ## 💫 I'm on an exciting journey as a self-taught full stack developer. I'm passionate about coding and constantly strive to enhance my skills and knowledge. Despite being self-taught, my motivation and love for coding keep me going strong.
 
+---
+<br>
+
 <img align="right" alt="GIF" src="https://github.com/TennoAndros/TennoAndros/assets/95369156/7db85e40-0e04-45d9-a7dc-f223236a9b5a" width="530px" height="auto"/>
 
 
 - 🔭 I’m currently working on improving my overall coding skills.
 - 🌱 I’m currently learning redux, javascript, react.
 - ⚡ Fun fact: Some people say that you either love or hate coding and i love it. Even in its frustrating moments.
+
 <br>
 
 # 💻 Tech Stack:
