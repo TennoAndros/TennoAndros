@@ -1,6 +1,6 @@
-# Hi there 👋 I'm Andreas, Self-Taught Full Stack Developer 👨‍💻
+# Hi there 👋 I'm Andreas, Full Stack Engineer 👨‍💻
 ---
-## 💫 I'm on an exciting journey as a self-taught full stack developer. I'm passionate about coding and constantly strive to enhance my skills and knowledge. Despite being self-taught, my motivation and love for coding keep me going strong.
+## 💫 I'm on an exciting journey as a full stack engineer. I'm passionate about coding and constantly strive to enhance my skills and knowledge. Despite being new to coding, my motivation and love keep me going strong.
 
 ---
 <p align="center">
