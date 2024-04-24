@@ -1,6 +1,6 @@
-# Hi there 👋 I'm Andreas, Full Stack Engineer 👨‍💻
+# Hi there 👋 I'm Andreas, Software Engineer 👨‍💻
 ---
-## 💫 I'm on an exciting journey as a full stack engineer. I'm passionate about coding and constantly strive to enhance my skills and knowledge. Despite being new to coding, my motivation and love keep me going strong.
+## 💫 I'm on an exciting journey as a software engineer. I'm passionate about coding and constantly strive to enhance my skills and knowledge. Despite being new to coding, my motivation and love keep me going strong.
 
 ---
 <p align="center">
@@ -9,7 +9,7 @@
 <br>
 
 - 🔭 I’m currently working on improving my overall coding skills.
-- 🌱 I’m currently learning redux, javascript, react.
+- 🌱 I’m currently learning redux, javascript, react, java, C#, angualr, python.
 - ⚡ Fun fact: Many successful and influential programmers and developers are entirely self-taught.
 
 ## 🌐 Find me here:
